@@ -22,6 +22,7 @@ public class StudentManagement{
 			
 			switch(choice){
 				case 1:
+				//Added student input functionality
 					System.out.pintln("Enter Student ID: ");
 					String id=input.nextLine();
 					System.out.println("Enter Student Name: ");
