@@ -16,3 +16,5 @@ This Java Console application is used to manage student academic records.
 
 2.Run the Program
 	java StudentManagement
+	
+Project completed succesfully!
