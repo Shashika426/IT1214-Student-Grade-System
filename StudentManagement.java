@@ -62,6 +62,7 @@ public class StudentManagement{
 				break;
 				
 				case 4:
+				//Added search and average calculation
 					if(students.isEmpty()){
 						System.out.println("No Student Records Available.");
 					}else{
